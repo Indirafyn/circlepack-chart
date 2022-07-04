@@ -1,19 +1,19 @@
 {
- "name": "Repositary",
+ "name": "Repository",
  "children": [
   {
    "name": "A1",
    "children": [
     {
-     "name": "data",
+     "name": "File Name",
      "children": [
-      {"name": "Data", "size": 20544},
-      {"name": "DataList", "size": 19788},
-      {"name": "DataSprite", "size": 10349},
-      {"name": "EdgeSprite", "size": 3301},
-      {"name": "NodeSprite", "size": 19382},
+      {"name": "filename1.py", "size": 20544},
+      {"name": "filename2.py", "size": 19788},
+      {"name": "filename3.py", "size": 10349},
+      {"name": "filename4.py", "size": 3301},
+      {"name": "filename5.py", "size": 19382},
       {
-       "name": "render",
+       "name": "filename6.py",
        "children": [
         {"name": "ArrowType", "size": 698},
         {"name": "EdgeRenderer", "size": 5569},
@@ -21,16 +21,16 @@
         {"name": "ShapeRenderer", "size": 2247}
        ]
       },
-      {"name": "ScaleBinding", "size": 11275},
-      {"name": "Tree", "size": 7147},
-      {"name": "TreeBuilder", "size": 9930}
+      {"name": "filename7.py", "size": 11275},
+      {"name": "filename8.py", "size": 7147},
+      {"name": "filename9.py", "size": 9930}
      ]
     },
     {
-     "name": "operator",
+     "name": "Contributor",
      "children": [
       {
-       "name": "distortion",
+       "name": "User1",
        "children": [
         {"name": "BifocalDistortion", "size": 4461},
         {"name": "Distortion", "size": 6314},
@@ -38,7 +38,7 @@
        ]
       },
       {
-       "name": "encoder",
+       "name": "User2",
        "children": [
         {"name": "ColorEncoder", "size": 3179},
         {"name": "Encoder", "size": 4060},
@@ -48,16 +48,16 @@
        ]
       },
       {
-       "name": "filter",
+       "name": "User3",
        "children": [
         {"name": "FisheyeTreeFilter", "size": 5219},
         {"name": "GraphDistanceFilter", "size": 3165},
         {"name": "VisibilityFilter", "size": 3509}
        ]
       },
-      {"name": "IOperator", "size": 1286},
+      {"name": "User4", "size": 1286},
       {
-       "name": "label",
+       "name": "User5",
        "children": [
         {"name": "Labeler", "size": 9956},
         {"name": "RadialLabeler", "size": 3899},
@@ -65,7 +65,7 @@
        ]
       },
       {
-       "name": "layout",
+       "name": "User6",
        "children": [
         {"name": "AxisLayout", "size": 6725},
         {"name": "BundledEdgeRouter", "size": 3727},
@@ -84,11 +84,11 @@
         {"name": "CirclepackLayout", "size": 9191}
        ]
       },
-      {"name": "Operator", "size": 2490},
-      {"name": "OperatorList", "size": 5248},
-      {"name": "OperatorSequence", "size": 4190},
-      {"name": "OperatorSwitch", "size": 2581},
-      {"name": "SortOperator", "size": 2023}
+      {"name": "User7", "size": 2490},
+      {"name": "User8", "size": 5248},
+      {"name": "User9", "size": 4190},
+      {"name": "User10", "size": 2581},
+      {"name": "User11", "size": 2023}
      ]
     }
    ]
