@@ -16,129 +16,136 @@
      "children": [
       {
        "name":"Contributor", "size": 5923}
+        ]
+      }
      ]
     }
    ]
-  }
- ]
-},
-{
- "name": "A2",
- "children": [
+  },
+  
   {
-   "name": "File Name", 
+   "name": "A2",
    "children": [
     {
-     "name":"filename_1.py",
-     "children": [
-      {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
-     ]
-    },
-    {
-     "name":"filename_2.py",
+     "name": "File Name", 
      "children": [
       {
-       "name":"Contributor", "size": 5923}
+       "name":"filename_1.py",
+       "children": [
+        {"name":"Contributor_1", "size": 4819},
+        {"name":"Contributor_2", "size": 4819}
+       ]
+      },
+      {
+       "name":"filename_2.py",
+       "children": [
+        {
+         "name":"Contributor", "size": 5923}
+       ]
+      }
      ]
     }
    ]
-  }
- ]
-},
-{
- "name": "B1",
- "children": [
+  },
+  
   {
-   "name": "File Name", 
+   "name": "B1",
    "children": [
     {
-     "name":"filename_1.py",
-     "children": [
-      {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
-     ]
-    },
-    {
-     "name":"filename_2.py",
+     "name": "File Name", 
      "children": [
       {
-       "name":"Contributor", "size": 5923}
+       "name":"filename_1.py",
+       "children": [
+        {"name":"Contributor_1", "size": 4819},
+        {"name":"Contributor_2", "size": 4819}
+       ]
+      },
+      {
+       "name":"filename_2.py",
+       "children": [
+        {
+         "name":"Contributor", "size": 5923}
+       ]
+      }
      ]
     }
    ]
-  }
- ]
-},
-{
- "name": "B2",
- "children": [
+  },
+  
   {
-   "name": "File Name", 
+   "name": "B2",
    "children": [
     {
-     "name":"filename_1.py",
-     "children": [
-      {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
-     ]
-    },
-    {
-     "name":"filename_2.py",
+     "name": "File Name", 
      "children": [
       {
-       "name":"Contributor", "size": 5923}
+       "name":"filename_1.py",
+       "children": [
+        {"name":"Contributor_1", "size": 4819},
+        {"name":"Contributor_2", "size": 4819}
+       ]
+      },
+      {
+       "name":"filename_2.py",
+       "children": [
+        {
+         "name":"Contributor", "size": 5923}
+       ]
+      }
      ]
     }
    ]
-  }
- ]
-},
-{
- "name": "C1",
- "children": [
+  },
+  
   {
-   "name": "File Name", 
+   "name": "C1",
    "children": [
     {
-     "name":"filename_1.py",
-     "children": [
-      {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
-     ]
-    },
-    {
-     "name":"filename_2.py",
+     "name": "File Name", 
      "children": [
       {
-       "name":"Contributor", "size": 5923}
+       "name":"filename_1.py",
+       "children": [
+        {"name":"Contributor_1", "size": 4819},
+        {"name":"Contributor_2", "size": 4819}
+       ]
+      },
+      {
+       "name":"filename_2.py",
+       "children": [
+        {
+         "name":"Contributor", "size": 5923}
+       ]
+      }
      ]
     }
    ]
-  }
- ]
-},
-{
- "name": "C2",
- "children": [
+  },
+  
   {
-   "name": "File Name", 
+   "name": "C2",
    "children": [
     {
-     "name":"filename_1.py",
-     "children": [
-      {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
-     ]
-    },
-    {
-     "name":"filename_2.py",
+     "name": "File Name", 
      "children": [
       {
-       "name":"Contributor", "size": 5923}
-     ]
-    }
+       "name":"filename_1.py",
+       "children": [
+        {"name":"Contributor_1", "size": 4819},
+        {"name":"Contributor_2", "size": 4819}
+       ]
+      },
+      {
+       "name":"filename_2.py",
+       "children": [
+        {
+         "name":"Contributor", "size": 5923}
+         ]
+        }
+       ]
+      }
+    
    ]
   }
- ]
-}
+ 
