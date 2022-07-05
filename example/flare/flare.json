@@ -11,13 +11,11 @@
       {"name":"Contributor_2", "size": 4819}
      ]
     },
+    
     {
      "name":"filename_2.py",
      "children": [
-      {
-       "name":"Contributor", "size": 5923}
-        ]
-      }
+      {"name":"Contributor", "size": 5923}
      ]
     }
    ]
