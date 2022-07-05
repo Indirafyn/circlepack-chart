@@ -1,197 +1,201 @@
-{
- "name": "Repository",
- "children": [
+{"name : "AWS",
+ "children" : [
   {
-   "name": "A1",
+   "name": "Repository",
    "children": [
     {
-     "name": "File Name",
+     "name": "A1",
      "children": [
-      {"name": "filename1.py", "size": 20544},
-      {"name": "filename2.py", "size": 19788},
-      {"name": "filename3.py", "size": 10349},
-      {"name": "filename4.py", "size": 3301},
-      {"name": "filename5.py", "size": 19382},
       {
-       "name": "filename6.py",
+       "name": "File Name",
        "children": [
-        {"name": "ArrowType", "size": 698},
-        {"name": "EdgeRenderer", "size": 5569},
-        {"name": "IRenderer", "size": 353},
-        {"name": "ShapeRenderer", "size": 2247}
+        {"name": "filename1.py", "size": 20544},
+        {"name": "filename2.py", "size": 19788},
+        {"name": "filename3.py", "size": 10349},
+        {"name": "filename4.py", "size": 3301},
+        {"name": "filename5.py", "size": 19382},
+        {
+         "name": "filename6.py",
+         "children": [
+          {"name": "ArrowType", "size": 698},
+          {"name": "EdgeRenderer", "size": 5569},
+          {"name": "IRenderer", "size": 353},
+          {"name": "ShapeRenderer", "size": 2247}
+         ]
+        },
+        {"name": "filename7.py", "size": 11275},
+        {"name": "filename8.py", "size": 7147},
+        {"name": "filename9.py", "size": 9930}
        ]
       },
-      {"name": "filename7.py", "size": 11275},
-      {"name": "filename8.py", "size": 7147},
-      {"name": "filename9.py", "size": 9930}
+      {
+       "name": "Contributor",
+       "children": [
+        {
+         "name": "User1",
+         "children": [
+          {"name": "BifocalDistortion", "size": 4461},
+          {"name": "Distortion", "size": 6314},
+          {"name": "FisheyeDistortion", "size": 3444}
+         ]
+        },
+        {
+         "name": "User2",
+         "children": [
+          {"name": "ColorEncoder", "size": 3179},
+          {"name": "Encoder", "size": 4060},
+          {"name": "PropertyEncoder", "size": 4138},
+          {"name": "ShapeEncoder", "size": 1690},
+          {"name": "SizeEncoder", "size": 1830}
+         ]
+        },
+        {
+         "name": "User3",
+         "children": [
+          {"name": "FisheyeTreeFilter", "size": 5219},
+          {"name": "GraphDistanceFilter", "size": 3165},
+          {"name": "VisibilityFilter", "size": 3509}
+         ]
+        },
+        {"name": "User4", "size": 1286},
+        {
+         "name": "User5",
+         "children": [
+          {"name": "Labeler", "size": 9956},
+          {"name": "RadialLabeler", "size": 3899},
+          {"name": "StackedAreaLabeler", "size": 3202}
+         ]
+        },
+        {
+         "name": "User6",
+         "children": [
+          {"name": "AxisLayout", "size": 6725},
+          {"name": "BundledEdgeRouter", "size": 3727},
+          {"name": "CircleLayout", "size": 9317},
+          {"name": "CirclePackingLayout", "size": 12003},
+          {"name": "DendrogramLayout", "size": 4853},
+          {"name": "ForceDirectedLayout", "size": 8411},
+          {"name": "IcicleTreeLayout", "size": 4864},
+          {"name": "IndentedTreeLayout", "size": 3174},
+          {"name": "Layout", "size": 7881},
+          {"name": "NodeLinkTreeLayout", "size": 12870},
+          {"name": "PieLayout", "size": 2728},
+          {"name": "RadialTreeLayout", "size": 12348},
+          {"name": "RandomLayout", "size": 870},
+          {"name": "StackedAreaLayout", "size": 9121},
+          {"name": "CirclepackLayout", "size": 9191}
+         ]
+        },
+        {"name": "User7", "size": 2490},
+        {"name": "User8", "size": 5248},
+        {"name": "User9", "size": 4190},
+        {"name": "User10", "size": 2581},
+        {"name": "User11", "size": 2023}
+       ]
+      }
      ]
     },
     {
-     "name": "Contributor",
+     "name": "A2",
      "children": [
+      {"name": "File Name", "size": 17010},
       {
-       "name": "User1",
+       "name": "Contributor",
        "children": [
-        {"name": "BifocalDistortion", "size": 4461},
-        {"name": "Distortion", "size": 6314},
-        {"name": "FisheyeDistortion", "size": 3444}
+        {"name": "ArrayInterpolator", "size": 1983},
+        {"name": "ColorInterpolator", "size": 2047},
+        {"name": "DateInterpolator", "size": 1375},
+        {"name": "Interpolator", "size": 8746},
+        {"name": "MatrixInterpolator", "size": 2202},
+        {"name": "NumberInterpolator", "size": 1382},
+        {"name": "ObjectInterpolator", "size": 1629},
+        {"name": "PointInterpolator", "size": 1675},
+        {"name": "RectangleInterpolator", "size": 2042}
        ]
-      },
-      {
-       "name": "User2",
-       "children": [
-        {"name": "ColorEncoder", "size": 3179},
-        {"name": "Encoder", "size": 4060},
-        {"name": "PropertyEncoder", "size": 4138},
-        {"name": "ShapeEncoder", "size": 1690},
-        {"name": "SizeEncoder", "size": 1830}
-       ]
-      },
-      {
-       "name": "User3",
-       "children": [
-        {"name": "FisheyeTreeFilter", "size": 5219},
-        {"name": "GraphDistanceFilter", "size": 3165},
-        {"name": "VisibilityFilter", "size": 3509}
-       ]
-      },
-      {"name": "User4", "size": 1286},
-      {
-       "name": "User5",
-       "children": [
-        {"name": "Labeler", "size": 9956},
-        {"name": "RadialLabeler", "size": 3899},
-        {"name": "StackedAreaLabeler", "size": 3202}
-       ]
-      },
-      {
-       "name": "User6",
-       "children": [
-        {"name": "AxisLayout", "size": 6725},
-        {"name": "BundledEdgeRouter", "size": 3727},
-        {"name": "CircleLayout", "size": 9317},
-        {"name": "CirclePackingLayout", "size": 12003},
-        {"name": "DendrogramLayout", "size": 4853},
-        {"name": "ForceDirectedLayout", "size": 8411},
-        {"name": "IcicleTreeLayout", "size": 4864},
-        {"name": "IndentedTreeLayout", "size": 3174},
-        {"name": "Layout", "size": 7881},
-        {"name": "NodeLinkTreeLayout", "size": 12870},
-        {"name": "PieLayout", "size": 2728},
-        {"name": "RadialTreeLayout", "size": 12348},
-        {"name": "RandomLayout", "size": 870},
-        {"name": "StackedAreaLayout", "size": 9121},
-        {"name": "CirclepackLayout", "size": 9191}
-       ]
-      },
-      {"name": "User7", "size": 2490},
-      {"name": "User8", "size": 5248},
-      {"name": "User9", "size": 4190},
-      {"name": "User10", "size": 2581},
-      {"name": "User11", "size": 2023}
-     ]
-    }
-   ]
-  },
-  {
-   "name": "A2",
-   "children": [
-    {"name": "File Name", "size": 17010},
-    {
-     "name": "Contributor",
-     "children": [
-      {"name": "ArrayInterpolator", "size": 1983},
-      {"name": "ColorInterpolator", "size": 2047},
-      {"name": "DateInterpolator", "size": 1375},
-      {"name": "Interpolator", "size": 8746},
-      {"name": "MatrixInterpolator", "size": 2202},
-      {"name": "NumberInterpolator", "size": 1382},
-      {"name": "ObjectInterpolator", "size": 1629},
-      {"name": "PointInterpolator", "size": 1675},
-      {"name": "RectangleInterpolator", "size": 2042}
-     ]
-    }
-   ]
-  },
-  {
-   "name": "B1",
-   "children": [
-    {
-     "name": "File Name",
-     "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      }
      ]
     },
     {
-     "name": "Contributor",
+     "name": "B1",
      "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
-     ]
-    }
-   ]
-  },
-  {
-   "name": "B2",
-   "children": [
-    {"name": "File Name", "size": 8833},
-    {"name": "Contributor", "size": 10066}
-   ]
-  },
-  {
-   "name": "C1",
-   "children": [
-    {"name": "File Name", "size": 10498},
-    {"name": "Contributor", "size": 9983}
-   ]
-  },
-  {
-   "name": "C2",
-   "children": [
-    {
-     "name": "File Name",
-     "children": [
-      {"name": "add", "size": 593},
-      {"name": "and", "size": 330},
-      {"name": "average", "size": 287},
-      {"name": "count", "size": 277},
-      {"name": "distinct", "size": 292},
-      {"name": "div", "size": 595},
-      {"name": "eq", "size": 594},
-      {"name": "fn", "size": 460},
-      {"name": "gt", "size": 603},
-      {"name": "gte", "size": 625},
-      {"name": "iff", "size": 748},
-      {"name": "isa", "size": 461},
-      {"name": "lt", "size": 597},
-      {"name": "lte", "size": 619},
-      {"name": "max", "size": 283},
-      {"name": "min", "size": 283},
-      {"name": "mod", "size": 591},
-      {"name": "mul", "size": 603},
-      {"name": "neq", "size": 599},
-      {"name": "not", "size": 386},
-      {"name": "or", "size": 323},
-      {"name": "orderby", "size": 307},
-      {"name": "range", "size": 772},
-      {"name": "select", "size": 296},
-      {"name": "stddev", "size": 363},
-      {"name": "sub", "size": 600},
-      {"name": "sum", "size": 280},
-      {"name": "update", "size": 307},
-      {"name": "variance", "size": 335},
-      {"name": "where", "size": 299},
-      {"name": "xor", "size": 354},
-      {"name": "_", "size": 264}
+      {
+       "name": "File Name",
+       "children": [
+        {"name": "AgglomerativeCluster", "size": 3938},
+        {"name": "CommunityStructure", "size": 3812},
+        {"name": "HierarchicalCluster", "size": 6714},
+        {"name": "MergeEdge", "size": 743}
+       ]
+      },
+      {
+       "name": "Contributor",
+       "children": [
+        {"name": "BetweennessCentrality", "size": 3534},
+        {"name": "LinkDistance", "size": 5731},
+        {"name": "MaxFlowMinCut", "size": 7840},
+        {"name": "ShortestPaths", "size": 5914},
+        {"name": "SpanningTree", "size": 3416}
+       ]
+      }
      ]
     },
-    {"name": "Contributor", "size": 13896}
+    {
+     "name": "B2",
+     "children": [
+      {"name": "File Name", "size": 8833},
+      {"name": "Contributor", "size": 10066}
+     ]
+    },
+    {
+     "name": "C1",
+     "children": [
+      {"name": "File Name", "size": 10498},
+      {"name": "Contributor", "size": 9983}
+     ]
+    },
+    {
+     "name": "C2",
+     "children": [
+      {
+       "name": "File Name",
+       "children": [
+        {"name": "add", "size": 593},
+        {"name": "and", "size": 330},
+        {"name": "average", "size": 287},
+        {"name": "count", "size": 277},
+        {"name": "distinct", "size": 292},
+        {"name": "div", "size": 595},
+        {"name": "eq", "size": 594},
+        {"name": "fn", "size": 460},
+        {"name": "gt", "size": 603},
+        {"name": "gte", "size": 625},
+        {"name": "iff", "size": 748},
+        {"name": "isa", "size": 461},
+        {"name": "lt", "size": 597},
+        {"name": "lte", "size": 619},
+        {"name": "max", "size": 283},
+        {"name": "min", "size": 283},
+        {"name": "mod", "size": 591},
+        {"name": "mul", "size": 603},
+        {"name": "neq", "size": 599},
+        {"name": "not", "size": 386},
+        {"name": "or", "size": 323},
+        {"name": "orderby", "size": 307},
+        {"name": "range", "size": 772},
+        {"name": "select", "size": 296},
+        {"name": "stddev", "size": 363},
+        {"name": "sub", "size": 600},
+        {"name": "sum", "size": 280},
+        {"name": "update", "size": 307},
+        {"name": "variance", "size": 335},
+        {"name": "where", "size": 299},
+        {"name": "xor", "size": 354},
+        {"name": "_", "size": 264}
+       ]
+      },
+      {"name": "Contributor", "size": 13896}
+     ]
+    }
    ]
   }
  ]
