@@ -1,13 +1,27 @@
 {
- "name": "flare",
+ "name": "AWS",
  "children": [
   {
-   "name": "analytics",
+   "name": "Level",
    "children": [
     {
-     "name": "cluster",
+     "name": "A1",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
+      {"name": "File Name", 
+       "children": [
+        {"name":"filename_1.py",
+         "children": [
+          {"name":"Contributor_1", "size": 4819},
+          {"name":"Contributor_2", "size": 4819}
+         ]
+        },
+        {"name":"filename_2.py",
+         "children": [
+          {"name":"Contributor", "size": 5923}
+         ]
+        }
+       ]
+      },
       {"name": "CommunityStructure", "size": 3812},
       {"name": "HierarchicalCluster", "size": 6714},
       {"name": "MergeEdge", "size": 743}
