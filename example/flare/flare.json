@@ -1,5 +1,5 @@
 {
- "name : "AWS",
+ "name" : "AWS",
  "children" : [
   {
    "name": "Repository",
