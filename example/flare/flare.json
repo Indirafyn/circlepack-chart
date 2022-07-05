@@ -5,15 +5,22 @@
    "name": "Repository",
    "children": [
     {
-     "name": "A1",
+     "name": "Level",
      "children": [
       {
-       "name": "File Name",
+       "name": "A1",
        "children": [
-        {"name": "filename1.py",
+        {"name": "File Name",
          "children": [
-         {"name": "Contributor1", "size": 5569},
-         {"name": "Contributor2", "size": 5569}
+         {"name": "filename_1", 
+          "children": [
+           {"name": "Contributor"
+            "children": [
+            {
+             "name" : "contributor_1", "size": 7800
+            }
+           ]
+          }
          ]
         }
        ]
