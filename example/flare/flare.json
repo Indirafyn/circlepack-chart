@@ -8,21 +8,10 @@
      "name": "Level",
      "children": [
       {
-       "name": "A1",
+       "name": "File Name", 
        "children": [
-        {"name": "File Name",
-         "children": [
-         {"name": "filename_1", 
-          "children": [
-           {"name": "Contributor"
-            "children": [
-            {
-             "name" : "contributor_1", "size": 7800
-            }
-           ]
-          }
-         ]
-        }
+        {"name": "Contributor", "size": 3812},
+        {"name": "Contributor", "size": 5478},
        ]
       }
      ]
