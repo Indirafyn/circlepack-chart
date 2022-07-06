@@ -19,6 +19,26 @@
      ]
     }
    ]
+  },
+  
+  {
+   "name": "A2",
+   "children": [
+    {
+     "name":"filename_1.py",
+     "children": [
+      {"name":"Contributor_1", "size": 4819},
+      {"name":"Contributor_2", "size": 4819}
+     ]
+    },
+    
+    {
+     "name":"filename_2.py",
+     "children": [
+      {"name":"Contributor", "size": 5923}
+     ]
+    }
+   ]
   }
  ]
 }
