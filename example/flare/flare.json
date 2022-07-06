@@ -1,6 +1,7 @@
 {
  "name": "AWS",
  "children": [
+  
   {
    "name": "A1",
    "children": [
@@ -8,19 +9,20 @@
      "name":"filename_1.py",
      "children": [
       {"name":"Contributor_1", "size": 5708},
-      {"name":"Contributor_2", "size": 12078}
+      {"name":"Contributor_2", "size": 5708}
      ]
     },
     
     {
      "name":"filename_2.py",
      "children": [
-      {"name":"Contributor_3", "size": 4693},
-      {"name":"Contributor_4", "size": 7654},
-      {"name":"Contributor_5", "size": 5923},
+      {"name":"Contributor_1", "size": 5708},
+      {"name":"Contributor_1", "size": 5708},
+      {"name":"Contributor_1", "size": 5708},
      ]
     }
    ]
   }
+  
  ]
 }
