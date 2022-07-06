@@ -7,15 +7,17 @@
     {
      "name":"filename_1.py",
      "children": [
-      {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
+      {"name":"Contributor_1", "size": 5708},
+      {"name":"Contributor_2", "size": 12078}
      ]
     },
     
     {
      "name":"filename_2.py",
      "children": [
-      {"name":"Contributor", "size": 5923}
+      {"name":"Contributor_3", "size": 4693},
+      {"name":"Contributor_4", "size": 7654},
+      {"name":"Contributor_5", "size": 5923},
      ]
     }
    ]
@@ -27,7 +29,7 @@
     {
      "name":"filename_1.py",
      "children": [
-      {"name":"Contributor_1", "size": 4819},
+      {"name":"Contributor_1", "size": 5647},
       {"name":"Contributor_2", "size": 4819}
      ]
     },
@@ -35,7 +37,8 @@
     {
      "name":"filename_2.py",
      "children": [
-      {"name":"Contributor", "size": 5923}
+      {"name":"Contributor_3", "size": 5923},
+      {"name":"Contributor_4", "size": 7654}
      ]
     }
    ]
@@ -48,14 +51,14 @@
      "name":"filename_1.py",
      "children": [
       {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
+      {"name":"Contributor_2", "size": 5643}
      ]
     },
     
     {
      "name":"filename_2.py",
      "children": [
-      {"name":"Contributor", "size": 5923}
+      {"name":"Contributor", "size": 1402}
      ]
     }
    ]
@@ -67,7 +70,7 @@
     {
      "name":"filename_1.py",
      "children": [
-      {"name":"Contributor_1", "size": 4819},
+      {"name":"Contributor_1", "size": 7653},
       {"name":"Contributor_2", "size": 4819}
      ]
     },
@@ -75,7 +78,9 @@
     {
      "name":"filename_2.py",
      "children": [
-      {"name":"Contributor", "size": 5923}
+      {"name":"Contributor_3", "size": 5923},
+      {"name":"Contributor_4", "size": 4653},
+      {"name":"Contributor_5", "size": 7819}
      ]
     }
    ]
@@ -87,15 +92,18 @@
     {
      "name":"filename_1.py",
      "children": [
-      {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
+      {"name":"Contributor_1", "size": 6741},
+      {"name":"Contributor_2", "size": 7382}
      ]
     },
     
     {
      "name":"filename_2.py",
      "children": [
-      {"name":"Contributor", "size": 5923}
+      {"name":"Contributor_3", "size": 6542},
+      {"name":"Contributor_4", "size": 1342},
+      {"name":"Contributor_5", "size": 5432},
+      {"name":"Contributor_6", "size": 3086}
      ]
     }
    ]
@@ -107,15 +115,15 @@
     {
      "name":"filename_1.py",
      "children": [
-      {"name":"Contributor_1", "size": 4819},
-      {"name":"Contributor_2", "size": 4819}
+      {"name":"Contributor_1", "size": 2436},
+      {"name":"Contributor_2", "size": 11345}
      ]
     },
     
     {
      "name":"filename_2.py",
      "children": [
-      {"name":"Contributor", "size": 5923}
+      {"name":"Contributor", "size": 7843}
      ]
     }
    ]
