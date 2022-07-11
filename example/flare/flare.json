@@ -22,12 +22,6 @@
          {"name": "contributor_4", "size": 5914},
          {"name": "contributor_5", "size": 3416}
         ]
-       },
-       {
-        "name": "filename_3.py",
-        "children": [
-         {"name": "contributor_1", "size": 7074}
-        ]
        }
       ]
      },
@@ -35,9 +29,8 @@
       "name": "A2",
       "children": [
        {"name": "filename_1.py", "size": 17010},
-       {"name": "filename_2.py", "size": 5842},
        {
-        "name": "filename_3.py",
+        "name": "filename_2.py",
         "children": [
          {"name": "contributor_1", "size": 1983},
          {"name": "contributor_2", "size": 2047},
@@ -78,9 +71,7 @@
             {"name": "contributor_2", "size": 5679},
             {"name": "contributor_3", "size": 4563}
         ]
-       },
-       {"name": "filename_3.py", "size": 3623},
-       {"name": "filename_4.py", "size": 10066}
+       }
       ]
      },
      {
@@ -93,7 +84,7 @@
             {"name": "contributor_3", "size": 8765}
         ]
        },
-       {"name": "filename_1.py",
+       {"name": "filename_2.py",
         "children": [
             {"name": "contributor_1", "size": 6234},
             {"name": "contributor_2", "size": 3677},
