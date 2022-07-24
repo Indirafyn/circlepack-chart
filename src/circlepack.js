@@ -9,6 +9,10 @@ import tinycolor from 'tinycolor2';
 import accessorFn from 'accessor-fn';
 import Tooltip from 'float-tooltip';
 
+var colors_new = d3.scale.ordinal()
+    .range(["#62ADDB", "#7568BA", "#FF8F2B", "#6BC96D"]); 
+
+
 const LABELS_WIDTH_OPACITY_SCALE = scaleLinear().domain([4, 8]).clamp(true); // px per char
 
 export default Kapsule({
@@ -223,7 +227,7 @@ export default Kapsule({
 
     allCells.select('circle').transition(transition)
       .attr('r', d => d.r)
-      .style('fill', d => colorOf(d.data, d.parent))
+      .style('fill', d => colors_new(d.data, d.parent))
       .style('stroke-width', d => `${borderWidthOf(d.data) / zoomTr.k}px`);
 
     allCells.select('g.label-container')
