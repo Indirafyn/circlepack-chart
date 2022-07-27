@@ -1,17 +1,1158 @@
 {
-    "name": "repository",
+    "name": "Repository",
     "children": [
-     {
-      "name": "lines_count",
-      "children": [
-       {
-        "name": "A1",
-        "children": [
-            {"name": "ishepard", "size": 141},
-            {"name": "stefanodallapalma", "size": 423}
-        ]
-       }
-      ]
-     }
-   ]
-}
+        {
+            "name": "__init__.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "22"},
+                        {"name": "stefanodallapalma", "size": "4"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "44"},
+                        {"name": "stefanodallapalma", "size": "8"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "change_set.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "54"},
+                        {"name": "stefanodallapalma", "size": "45"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "90"},
+                        {"name": "stefanodallapalma", "size": "75"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "6"},
+                        {"name": "stefanodallapalma", "size": "5"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "6"},
+                        {"name": "stefanodallapalma", "size": "5"}
+                    ]
+                },
+                {
+                    "name": "C2",
+                    "children": [
+                        {"name": "ishepard", "size": "6"},
+                        {"name": "stefanodallapalma", "size": "5"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "code_churn.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "84"},
+                        {"name": "stefanodallapalma", "size": "112"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "135"},
+                        {"name": "stefanodallapalma", "size": "180"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "6"},
+                        {"name": "stefanodallapalma", "size": "8"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "3"},
+                        {"name": "stefanodallapalma", "size": "4"}
+                    ]
+                },
+                {
+                    "name": "C2",
+                    "children": [
+                        {"name": "ishepard", "size": "3"},
+                        {"name": "stefanodallapalma", "size": "4"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "commit.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "21528"},
+                        {"name": "stefanodallapalma", "size": "624"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "21942"},
+                        {"name": "stefanodallapalma", "size": "636"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "759"},
+                        {"name": "stefanodallapalma", "size": "22"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "759"},
+                        {"name": "stefanodallapalma", "size": "22"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "552"},
+                        {"name": "stefanodallapalma", "size": "16"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "commits_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "36"},
+                        {"name": "stefanodallapalma", "size": "18"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "60"},
+                        {"name": "stefanodallapalma", "size": "30"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "4"},
+                        {"name": "stefanodallapalma", "size": "2"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "conf.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "3960"},
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "stefanodallapalma", "size": "3744"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "264"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "48"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "contributors_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "46"},
+                        {"name": "stefanodallapalma", "size": "138"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "86"},
+                        {"name": "stefanodallapalma", "size": "258"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "2"},
+                        {"name": "stefanodallapalma", "size": "6"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "2"},
+                        {"name": "stefanodallapalma", "size": "6"}
+                    ]
+                },
+                {
+                    "name": "C2",
+                    "children": [
+                        {"name": "ishepard", "size": "2"},
+                        {"name": "stefanodallapalma", "size": "6"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "contributors_experience.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "16"},
+                        {"name": "stefanodallapalma", "size": "32"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "26"},
+                        {"name": "stefanodallapalma", "size": "52"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "1"},
+                        {"name": "stefanodallapalma", "size": "2"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "developer.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "56"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "21"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "7"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "14"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "history_complexity.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "38"},
+                        {"name": "stefanodallapalma", "size": "114"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "46"},
+                        {"name": "stefanodallapalma", "size": "138"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "2"},
+                        {"name": "stefanodallapalma", "size": "6"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "2"},
+                        {"name": "stefanodallapalma", "size": "6"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "hunks_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "20"},
+                        {"name": "stefanodallapalma", "size": "60"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "24"},
+                        {"name": "stefanodallapalma", "size": "72"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "1"},
+                        {"name": "stefanodallapalma", "size": "3"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "lines_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "141"},
+                        {"name": "stefanodallapalma", "size": "423"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "192"},
+                        {"name": "stefanodallapalma", "size": "576"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "3"},
+                        {"name": "stefanodallapalma", "size": "9"}
+                    ]
+                },
+                {
+                    "name": "C2",
+                    "children": [
+                        {"name": "ishepard", "size": "3"},
+                        {"name": "stefanodallapalma", "size": "9"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "process_metric.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "21"},
+                        {"name": "stefanodallapalma", "size": "70"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "15"},
+                        {"name": "stefanodallapalma", "size": "50"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "9"},
+                        {"name": "stefanodallapalma", "size": "30"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "repository.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "62"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "117"},
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "11"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "1"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "4"}
+                    ]
+                },
+                {
+                    "name": "C2",
+                    "children": [
+                        {"name": "ishepard", "size": "1"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "setup.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "405"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "720"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "225"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_between_dates.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "209"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "266"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "171"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_between_tags.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "140"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "154"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "98"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_change_set.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "15"},
+                        {"name": "stefanodallapalma", "size": "45"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "11"},
+                        {"name": "stefanodallapalma", "size": "33"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "4"},
+                        {"name": "stefanodallapalma", "size": "12"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_code_churn.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "27"},
+                        {"name": "stefanodallapalma", "size": "108"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "17"},
+                        {"name": "stefanodallapalma", "size": "68"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "15"},
+                        {"name": "stefanodallapalma", "size": "60"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_commit.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "4068"},
+                        {"name": "stefanodallapalma", "size": "113"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "8136"},
+                        {"name": "stefanodallapalma", "size": "226"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "540"},
+                        {"name": "stefanodallapalma", "size": "15"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "3600"},
+                        {"name": "stefanodallapalma", "size": "100"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "36"},
+                        {"name": "stefanodallapalma", "size": "1"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_commit_filters.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "2392"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "3614"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "130"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "2938"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "182"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_commits_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "120"},
+                        {"name": "stefanodallapalma", "size": "165"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "80"},
+                        {"name": "stefanodallapalma", "size": "110"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "16"},
+                        {"name": "stefanodallapalma", "size": "22"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_contributors_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "96"},
+                        {"name": "stefanodallapalma", "size": "80"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "60"},
+                        {"name": "stefanodallapalma", "size": "50"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "12"},
+                        {"name": "stefanodallapalma", "size": "10"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_contributors_experience_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "90"},
+                        {"name": "stefanodallapalma", "size": "72"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "50"},
+                        {"name": "stefanodallapalma", "size": "40"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "10"},
+                        {"name": "stefanodallapalma", "size": "8"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_dates_and_timezones.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "120"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "135"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "30"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_developer.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "10"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "2"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "8"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_diff.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "588"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "276"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "348"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "12"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_dmm.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "66"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "38"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "1"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "11"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "1"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_git_repository.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "8316"},
+                        {"name": "stefanodallapalma", "size": "308"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "16902"},
+                        {"name": "stefanodallapalma", "size": "626"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "216"},
+                        {"name": "stefanodallapalma", "size": "8"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "7074"},
+                        {"name": "stefanodallapalma", "size": "262"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "54"},
+                        {"name": "stefanodallapalma", "size": "2"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_history_complexity_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "85"},
+                        {"name": "stefanodallapalma", "size": "68"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "50"},
+                        {"name": "stefanodallapalma", "size": "40"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "10"},
+                        {"name": "stefanodallapalma", "size": "8"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_hunks_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "72"},
+                        {"name": "stefanodallapalma", "size": "126"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "40"},
+                        {"name": "stefanodallapalma", "size": "70"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "8"},
+                        {"name": "stefanodallapalma", "size": "14"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_lines_added.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "20"},
+                        {"name": "stefanodallapalma", "size": "40"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "14"},
+                        {"name": "stefanodallapalma", "size": "28"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "6"},
+                        {"name": "stefanodallapalma", "size": "12"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_lines_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "80"},
+                        {"name": "stefanodallapalma", "size": "176"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "50"},
+                        {"name": "stefanodallapalma", "size": "110"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "10"},
+                        {"name": "stefanodallapalma", "size": "22"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_lines_removed.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "20"},
+                        {"name": "stefanodallapalma", "size": "40"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "14"},
+                        {"name": "stefanodallapalma", "size": "28"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "6"},
+                        {"name": "stefanodallapalma", "size": "12"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_memory_consumption.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "1813"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "3136"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "147"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "49"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "49"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_minor_contributors_count.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "90"},
+                        {"name": "stefanodallapalma", "size": "108"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "50"},
+                        {"name": "stefanodallapalma", "size": "60"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "10"},
+                        {"name": "stefanodallapalma", "size": "12"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_process_metric.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "7"},
+                        {"name": "stefanodallapalma", "size": "7"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "6"},
+                        {"name": "stefanodallapalma", "size": "6"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "1"},
+                        {"name": "stefanodallapalma", "size": "1"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_ranges.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "2304"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "2040"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "144"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "240"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "test_repository_mining.py",
+            "children": [
+                {
+                    "name": "A1",
+                    "children": [
+                        {"name": "ishepard", "size": "4318"}
+                    ]
+                },
+                {
+                    "name": "A2",
+                    "children": [
+                        {"name": "ishepard", "size": "3672"}
+                    ]
+                },
+                {
+                    "name": "B1",
+                    "children": [
+                        {"name": "ishepard", "size": "204"}
+                    ]
+                },
+                {
+                    "name": "B2",
+                    "children": [
+                        {"name": "ishepard", "size": "2210"}
+                    ]
+                },
+                {
+                    "name": "C1",
+                    "children": [
+                        {"name": "ishepard", "size": "34"}
+                    ]
+                }
+            ]
+        }
+    ]
+} 
