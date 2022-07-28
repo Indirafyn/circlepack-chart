@@ -172,7 +172,7 @@
                 {
                     "name": "A1",
                     "children": [
-                        {"name": "ishepard", "size": "3960"},
+                        {"name": "ishepard", "size": "3960"}
                     ]
                 },
                 {
@@ -420,7 +420,7 @@
                 {
                     "name": "A2",
                     "children": [
-                        {"name": "ishepard", "size": "117"},
+                        {"name": "ishepard", "size": "117"}
                     ]
                 },
                 {
